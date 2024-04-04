@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is [Nikita], and I'm a frontend developer striving for continuous growth and improvement.
+My name is Nikita, and I'm a frontend developer striving for continuous growth and improvement.
 
 ## 🔧 Technologies and Tools
 
@@ -15,9 +15,7 @@ My name is [Nikita], and I'm a frontend developer striving for continuous growth
 - Classic ML
 - LLM
 
-## 💼 Current Workplace
-
-- [Sber](http://www.sberbank.ru)  <img src="https://cdn.regnum.ru/uploads/pictures/news/2020/11/11/regnum_picture_160507890570607_normal.jpg" alt="Sber" width="50" height="50">
+## 💼 Current Workplace - <span style="color:green">[Sber](http://www.sberbank.ru)</span>
 
 ## 📫 Contact Me
 
