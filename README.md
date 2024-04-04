@@ -17,8 +17,7 @@ My name is [Nikita], and I'm a frontend developer striving for continuous growth
 
 ## 💼 Current Workplace
 
-- [Sber](http://www.sberbank.ru) ![image](https://github.com/Nikita-hub000/Nikita-hub000/assets/61419343/b5cf3ee6-b67d-4b7a-a876-d6ef99c244e0)
-
+- [Sber](http://www.sberbank.ru)  <img src="https://cdn.regnum.ru/uploads/pictures/news/2020/11/11/regnum_picture_160507890570607_normal.jpg" alt="Sber" width="50" height="50">
 
 ## 📫 Contact Me
 
