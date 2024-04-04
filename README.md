@@ -24,5 +24,5 @@ My name is Nikita, and I'm a frontend developer striving for continuous growth a
 
 ## 🚀 GitHub Statistics
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Nikita-hub000&show_icons=true&theme=dark&hide_border=true&locale=en)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api/top-langs?username=Nikita-hub000&show_icons=true&theme=dark&hide_border=true&locale=en)
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Nikita-hub000&show_icons=true&theme=dark&hide_border=true&locale=en)
